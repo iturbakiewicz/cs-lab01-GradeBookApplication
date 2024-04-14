@@ -33,4 +33,4 @@ Zadanie polega na uzupełnieniu istniejącego kodu projektu aplikacji _Grade Boo
 
 1. Rozbuduj logikę i interfejs aplikacji o inne formaty oceniania.
 2. Dodaj funkcjonalność automatycznego zapisywania po wykonaniu operacji na danych (dodanie/usunięcie/modyfikacja studenta albo jego ocen).
-3. Opracuj wariant aplikacji desktopowej z graficznym interfejsem użytkownika (WPF/XAML).
+3. Opracuj wariant aplikacji desktopowej z graficznym interfejsem użytkownika (WPF/XAML)."# cs-lab01-GradeBookApplication" 
